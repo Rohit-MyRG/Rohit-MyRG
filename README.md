@@ -9,11 +9,10 @@
 - ⚡ Fun fact: I love coding, traveling and nature
 
 ## Skills and Experience
-* C/C++
-* Java
-* HTML, CSS, JS
-* PHP
-* SQL/MySQL
+* 💻 C, C++
+* ♨️ Java
+* 🌐 HTML, CSS, JS
+* 🗄️ SQL, MySQL
 <br/>
 
 ## Languages and Tools:
