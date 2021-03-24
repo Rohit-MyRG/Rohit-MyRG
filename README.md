@@ -1,8 +1,8 @@
 ### Hi there, I'm Rohit 👋
 
-## I'm a Student, Content creator and also a Software Developer !!
+## I am a student, content creator and enthusiastic programmer. !!
 
-- 🔭 I'm currently working on web development as a self-employed person
+- 🔭 I'm currently pursuing MCA from Pune University.
 - 🌱 I’m currently learning about new technology and self discovery
 - 👯 I'm looking to collaborate with technical freelancers
 - 🥅 2021 Goals: Contribute more to Open Source projects and Interns
