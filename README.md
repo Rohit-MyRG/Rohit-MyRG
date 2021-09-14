@@ -1,24 +1,23 @@
 ### Hi there, I'm Rohit 👋
 
-## I am a student, content creator and enthusiastic programmer. !!
+## I'm a student, Web Dev and Competitive programming enthusiastic. !!
 
-- 🔭 I'm currently pursuing MCA from Pune University.
+- 🔭 I'm currently pursuing **MCA** from Pune University.
 - 🌱 I’m currently learning about new technology and self discovery
-- 👯 I'm looking to collaborate with technical freelancers
-- 🥅 2021 Goals: Contribute more to Open Source projects and Interns
-- ⚡ Fun fact: I love coding, traveling and nature
+- 👯 I'm looking for **java/Web internship/Open Source**.
+- 🥅 2021 Goals: *Competitive Programming* and Contribute more to *Open Source projects* and *Interns*
+- ⚡ Fun fact: I love coding, playing flute, traveling and nature
 
 ## Skills and Experience
-* 💻 C, C++
-* ♨️ Java
-* 🌐 HTML, CSS, JS
-* 🗄️ SQL, MySQL
+* ♨️ Java, Spring MVC, Design Patterns, Maven
+* 💻 C, C++, Python
+* 🌐 HTML, CSS, JavaScript
+* 🗄️ MySQL, MongoDB
 <br/>
 
 ## Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://github.com/Rohit-MyRG/Rohit-MyRG/blob/main/java-43-569305.webp" title="Java" />][java]
-[<img align="left" alt=".NET" width="26px" src="https://github.com/Rohit-MyRG/Rohit-MyRG/blob/main/microsoft-dot-net-1-1175179.webp" title=".NET" />][dotnet]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" />][webdevplaylist]
@@ -35,9 +34,9 @@
 
 [<img align="left" alt="Rohit-MyRG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohit-MyRG | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rohit-MyRG | stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Rohit-MyRG | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Rohit-MyRG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Rohit-MyRG | stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][instagram]
 <br/><br/>
 
 [![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-MyRG)](https://github.com/Rohit-MyRG/github-readme-stats)
@@ -46,6 +45,7 @@
 
 [linkedin]: https://www.linkedin.com/in/rohitramtirthe/
 [twitter]: https://twitter.com/RamtirtheRohit
+[hackerrank]: https://www.hackerrank.com/rohit_myrg
 [youtube]: https://www.youtube.com/RohitRamtirthe?sub_confirmation=1
 [instagram]: https://www.instagram.com/rohit_ramtirthe/
 [stackoverflow]: https://stackoverflow.com/users/11299260/rrohitg
