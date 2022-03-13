@@ -1,17 +1,14 @@
 ### Hi there, I'm Rohit 👋
 
-## I'm a student, Web Dev and Competitive programming enthusiastic. !!
-
-- 🔭 I'm currently pursuing **MCA** from Pune University.
-- 🌱 I’m currently learning about new technology and self discovery
-- 👯 I'm looking for **java/Web internship/Open Source**.
-- 🥅 2021 Goals: *Competitive Programming* and Contribute more to *Open Source projects* and *Interns*
-- ⚡ Fun fact: I love coding, playing flute, traveling and nature
+## Java Developer Intern | GSSOC'22 Contributer | MCA Student. !!
+- 🌱 learning about DevOps & Blockchain.
+- 🥅 2022 Goals: **Build more projects & Contribute to Open Source** and **Problem Solving**
+- ⚡ Fun fact: I love coding, Teaching, playing flute, traveling and nature.
 
 ## Skills and Experience
-* ♨️ Java, Spring MVC, Design Patterns, Maven
-* 💻 C, C++, Python
-* 🌐 HTML, CSS, JavaScript
+* ♨️ Java, Spring, Design Patterns.
+* 💻 C++, Python
+* 🌐 HTML, CSS, JavaScript, AWS
 * 🗄️ MySQL, MongoDB
 <br/>
 
