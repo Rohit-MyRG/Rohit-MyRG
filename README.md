@@ -1,15 +1,15 @@
 ### Hi there, I'm Rohit 👋
 
-## Java Developer Intern | GSSOC'22 Contributer | MCA Student. !!
+## Senior Software Developer - Java | MCA'22 !!
 - 🌱 learning about DevOps & Blockchain.
 - 🥅 2022 Goals: **Build more projects & Contribute to Open Source** and **Problem Solving**
-- ⚡ Fun fact: I love coding, Teaching, playing flute, traveling and nature.
+- ⚡ Fun fact: I love coding, Teaching, playing flute, traveling, and much more.
 
 ## Skills and Experience
-* ♨️ Java, Spring, Design Patterns.
-* 💻 C++, Python
-* 🌐 HTML, CSS, JavaScript, AWS
-* 🗄️ MySQL, MongoDB
+* ♨️ Java 11, Spring Boot, Spring JPA, Spring Security,  Design Patterns.
+* 🌐 HTML, CSS, JavaScript, AWS(Lambda, S3, EC2, MSK, Cloud Watch, Code Pipeline, scheduler, Cognito, etc).
+* 🗄️ MySQL, Oracle, Couchbase, DynamoDB.
+* 💻 Maven, Git & GitHub, CI/CD, Docker.
 <br/>
 
 ## Languages and Tools:
