@@ -1,16 +1,32 @@
-### Hi there, I'm Rohit 👋
+# Hi there, I'm Rohit 👋  
 
-## Senior Software Developer - Java | MCA'22 !!
-- 🌱 learning about DevOps & Blockchain.
-- 🥅 2022 Goals: **Build more projects & Contribute to Open Source** and **Problem Solving**
-- ⚡ Fun fact: I love coding, Teaching, playing flute, traveling, and much more.
+## 🚀 Software Engineer | Tech Enthusiast  
 
-## Skills and Experience
-* ♨️ Java 11, Spring Boot, Spring JPA, Spring Security,  Design Patterns.
-* 🌐 HTML, CSS, JavaScript, AWS(Lambda, S3, EC2, MSK, Cloud Watch, Code Pipeline, scheduler, Cognito, etc).
-* 🗄️ MySQL, Oracle, Couchbase, DynamoDB.
-* 💻 Maven, Git & GitHub, CI/CD, Docker.
-<br/>
+Welcome to my GitHub profile! I'm passionate about:  
+- 🌱 Exploring emerging trends, designing innovative products, and educating tech enthusiasts.  
+- 🛠️ Delivering end-to-end software solutions tailored to modern needs.  
+- 🥅 Expert in Microservices, System Design, AWS Cloud Solutions, and robust software engineering.  
+
+⚡ **Fun Fact**: Did you know that the first computer virus was created in 1986 and called "Brain"? We've come a long way since then, shaping cybersecurity and software development as we know it!  
+
+---
+
+## 🧰 Skills and Expertise  
+
+### Programming, Frameworks & Tools  
+- ♨️ **Java 17**, Spring Boot, Spring JPA, Spring Security, Hibernate, Apache Kafka, and AI.
+
+### Web Development  
+- 🌐 **HTML**, **CSS**, **JavaScript**  
+
+### Cloud & DevOps  
+- ☁️ AWS (**Lambda**, **S3**, **EC2**, **MSK**, **CloudWatch**, **CodePipeline**, **Scheduler**, **Cognito**, and more)  
+- 🛠️ **Maven**, **Git & GitHub**, **CI/CD**, **Docker**  
+
+### Databases  
+- 🗄️ **PostgreSQL**, **MySQL**, **Oracle**, **Couchbase**, **DynamoDB**  
+
+---
 
 ## Languages and Tools:
 
